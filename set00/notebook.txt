@@ -11,3 +11,14 @@ Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
 1/10	NM	23:16	23:27	2		1		9		Successfully downloaded, installed, and ran GitHub
 1/10	NM	23:33	23:51	0		1		18		Watched and studied video about GitHub
 ============committing to git: 1/10 23:55 ===================
+1/11	NM	14:11	14:42	1		2		30		Read over more info about Git. Worked on Laboratory
+										Exercise: Using Git. I am unsure if I was supposed
+										to create repository cs5010sp14 myself, but I did do
+										it for practice. Realized the notebook.txt is was
+										probably not committed to the correct repository for
+ 										collection by instructors
+1/11	NM	14:49	14:52	0		3		3		Filled in my info on the form at I Am Here
+1/11	NM	15:15	15:35	10		4		10		Added a note About Me on Piazza along with a picture
+1/11	NM	15:42	15:55	1		5		12		Added a note The Function Design Recipe on Piazza
+1/11	NM	16:00	16:07	0		6		7		Started reading over the Racket Laboratory
+============committing to git: 1/11 16:07 ===================
