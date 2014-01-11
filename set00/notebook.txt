@@ -1,13 +1,13 @@
 Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
 1/10	NM	21:50	21:51	0		1		1		Verified that CCIS account was created
-1/10	NM	21:51	22:00	1		2		18		Created account on Piazza, Read some new posts
-1/10	NM	22:06	22:25	0		2		19		Read over communication/"Netiquette"
-1/10	NM	22:26	22:34	0		4		8		Downloaded and installed Racket v 5.3.6
-1/10	NM	22:35	22:43	1		4		7		Verified that DrRacket, GRacket and Racket work
+1/10	NM	21:51	22:00	1		1		18		Created account on Piazza, Read some new posts
+1/10	NM	22:06	22:25	0		1		19		Read over communication/"Netiquette"
+1/10	NM	22:26	22:34	0		1		8		Downloaded and installed Racket v 5.3.6
+1/10	NM	22:35	22:43	1		1		7		Verified that DrRacket, GRacket and Racket work
 										correctly. Defined a couple of variables and
 										performed a couple of arithmetic operations
-1/10	NM	22:45	23:05	0		5		20		Went through introduction to git presentation
-1/10	NM	23:06	23:16	0		5		10		Signed up for Gravatar and uploaded my picture
-1/10	NM	23:16	23:27	2		5		9		Successfully downloaded, installed, and ran GitHub
-1/10	NM	23:33	23:51	0		5		18		Watched and studied video about GitHub
+1/10	NM	22:45	23:05	0		1		20		Went through introduction to git presentation
+1/10	NM	23:06	23:16	0		1		10		Signed up for Gravatar and uploaded my picture
+1/10	NM	23:16	23:27	2		1		9		Successfully downloaded, installed, and ran GitHub
+1/10	NM	23:33	23:51	0		1		18		Watched and studied video about GitHub
 ============committing to git: 1/10 23:55 ===================
