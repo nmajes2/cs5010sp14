@@ -1,1 +1,2 @@
 This a file to practice committing changes.
+I am now making an edit.
